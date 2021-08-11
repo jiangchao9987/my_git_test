@@ -22,7 +22,7 @@ clone typied
 8428()5:wq
 8428(6)
 8428(7 )
-8429(out1
-8429(out2)()out3:wq
-oopoopoop
-ooppp
+8429(out1)
+ssh
+ssh2
+ssh3
