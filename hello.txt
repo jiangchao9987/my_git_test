@@ -23,4 +23,5 @@ clone typied
 8428(6)
 8428(7 )
 8429(out1
-8429(out2)
+8429(out2)()out3:wq
+
